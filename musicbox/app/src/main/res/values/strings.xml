@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">musicbox</string>
+    <string name="song_name">Shane Songs</string>
+    <string name="song_artist">John Melo</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">checkedbox</string>
+    <string name="question">Choose your Gender</string>
+    <string name="MALE">MALE</string>
+    <string name="FEMALE">FEMALE</string>
+    <string name="NONE">NONE</string>
+</resources>

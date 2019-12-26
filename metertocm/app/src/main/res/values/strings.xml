@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">metertocm</string>
+    <string name="app_error">it is empty</string>
+    <string name="yes">yes</string>
+    <string name="maybe">maybe</string>
+    <string name="no">no</string>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">meterstoinches</string>
+    <string name="error_meassage">Please enter a value</string>
+</resources>
